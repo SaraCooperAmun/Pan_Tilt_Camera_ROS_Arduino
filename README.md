@@ -2,7 +2,7 @@
 Pan Tilt servo motor camera controller through Arduino and ROS: https://www.youtube.com/watch?v=o5tCGbW4WF0
 
 
-# Installations
+## Installations
 
 Note: the demo has been conducted on Ubuntu 16.04 PC
 
