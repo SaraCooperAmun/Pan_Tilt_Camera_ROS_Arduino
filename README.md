@@ -44,7 +44,7 @@ $catkin_make
 
 
 
-4) find_object_2d: https://gihub.com/introlab/find-object
+5) find_object_2d: https://gihub.com/introlab/find-object
 
 
 
@@ -62,7 +62,7 @@ $roscore
 $roslaunch pan_tilt_camera usb_cam.launch
 
 
-3)Run find_object_2d for object detection. 
+3) Run find_object_2d for object detection. 
 
 
 $roslaunch pan_tilt_camera start_find_object_2d.launch
