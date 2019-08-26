@@ -1,5 +1,6 @@
 # Pan tilt camera 
 Pan Tilt servo motor camera controller through Arduino and ROS: https://www.youtube.com/watch?v=o5tCGbW4WF0
+Project done for Robotics Mechanical System module for MSc in Robotics, Autonomous and Interactive Systems (Heriot-Watt University, Edinburgh) by Sara Cooper, Hanako Audry, Pierre Le Hen, Clémenet Desban-Esteves and Loris Montbarbon
 
 
 ## Installations
